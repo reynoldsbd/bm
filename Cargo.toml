@@ -1,0 +1,6 @@
+[package]
+name = "libbm"
+version = "0.1.0"
+authors = ["Bobby Reynolds <bobby@reynoldsbd.net>"]
+
+[dependencies]
